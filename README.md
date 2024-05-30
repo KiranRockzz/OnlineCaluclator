@@ -85,3 +85,7 @@
     </script>
 </body>
 </html>
+
+
+[This project demonstrates how to create a simple online calculator using HTML, CSS, and JavaScript. The `eval()` function is used to evaluate mathematical expressions. This project highlights the importance of testing and error handling in web development.]
+(https://docs.google.com/presentation/d/19lBrbZgdVyQwmPZIkhyvsoeiKcS-BZbdIDAJeacHu7g/edit?usp=sharing)
